@@ -7,9 +7,13 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Portfolio
 
-_Get started using GitHub in less than an hour._
+Hi I'm Gergely Siklosi!
+
+Belowe you can find my projects. 
+Feel free to check them. 
+If you have any question about them just hit me up.
 
 </header>
 
